@@ -7,7 +7,7 @@ import javax.swing.JFrame;
 public class MainWindow extends JFrame{
 
 	public MainWindow() {
-		setTitle("Ventana Principal");
+		setTitle("Ventana");
 		setExtendedState(MAXIMIZED_BOTH);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		
